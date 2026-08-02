@@ -1,0 +1,1 @@
+ print("App.js loaded from ./root")
